@@ -1,0 +1,29 @@
+﻿.container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+    .container div {
+        margin-top: 5px;
+    }
+
+
+.headerstyle {
+    color:red;
+    border-right-color: black;
+    border-bottom-color: rebeccapurple;
+    background-color: lavenderblush;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    text-align: center;
+}
+
+.box-size {
+    width: 130px;
+}
+
+.imageStyle {
+    width: 30px;
+}
